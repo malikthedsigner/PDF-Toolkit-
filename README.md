@@ -8,4 +8,6 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+  # Upload scanned copy, to leverage Azure OCR service. Should be an extra tab, greyed out
   
